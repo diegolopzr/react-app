@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TC-integracion-continua
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repositorio para trabajo colaborativo de integración continua
 
 ## Available Scripts
 

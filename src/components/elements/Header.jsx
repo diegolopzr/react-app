@@ -48,7 +48,7 @@ const Header = () => {
                 <Link to ="/">
                 <StyledRMDBLogo src={RMDBLogo} alt="rmdb-logo"/>
                 </Link>
-                <StyledTMDBLogo src={TMDBLogo} alt="tmdb-logo"/>
+                {/* <StyledTMDBLogo src={TMDBLogo} alt="tmdb-logo"/> */}
             </div>
         </StyledHeader>
     )
